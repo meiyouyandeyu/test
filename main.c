@@ -237,6 +237,7 @@ void MyFreeExe() {
 }
 
 int main() {
+	// Creating a new branch is quick.
     MyFreeExe();
 	return 0;
 }
